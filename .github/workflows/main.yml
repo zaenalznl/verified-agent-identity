@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'zaenal znl'
         required: true
-        default: 'zaenalznlbillions'
+        default: 'zaenal znl'
       agent_description:
         description: 'Deskripsi Agen'
         required: true
